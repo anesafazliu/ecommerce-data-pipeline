@@ -1,0 +1,5 @@
+PaymentID,PaymentDate,PaymentMethod,Amount,Status,TransactionID,Currency
+1,2026-09-01,Credit Card,139.97,Completed,TXN-10001,EUR
+2,2026-09-03,PayPal,1199.99,Completed,TXN-10002,EUR
+3,2026-09-05,Credit Card,89.99,Completed,TXN-10003,EUR
+4,2026-09-07,Bank Transfer,1099.98,Completed,TXN-10004,EUR

@@ -1,0 +1,9 @@
+CategoryID,Name,Description,ParentCategoryID,IsActive,CreatedAt
+1,Clothing,Clothing and apparel,,1,2026-01-01
+2,Mens Clothing,Clothing for men,1,1,2026-01-02
+3,Womens Clothing,Clothing for women,1,1,2026-01-02
+4,Sports,Sportswear and equipment,,1,2026-01-03
+5,Electronics,Electronic devices and accessories,,1,2026-01-04
+6,Computers,Computers and computer accessories,5,1,2026-01-05
+7,Smartphones,Smartphones and mobile devices,5,1,2026-01-05
+8,Accessories,Fashion and sports accessories,,1,2026-01-06

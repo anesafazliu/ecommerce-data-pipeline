@@ -1,0 +1,9 @@
+ProductID,Name,Description,Price,StockQuantity,Supplier,SKU,IsActive,CreatedAt,UpdatedAt
+1,Classic White T-Shirt,Basic white cotton t-shirt,19.99,120,UrbanWear,TS-WHT-001,1,2026-01-10,2026-01-10
+2,Black Sports T-Shirt,Breathable sports t-shirt,24.99,85,SportStyle,TS-BLK-002,1,2026-01-11,2026-01-11
+3,Running Shoes,Lightweight running shoes,89.99,45,SportStyle,SH-RUN-003,1,2026-01-12,2026-01-12
+4,Denim Jeans,Classic blue denim jeans,59.99,70,UrbanWear,JN-BLU-004,1,2026-01-13,2026-01-13
+5,MacBook Air,Lightweight Apple laptop,1199.99,20,Apple,LAP-MAC-005,1,2026-01-14,2026-01-14
+6,Wireless Mouse,Wireless computer mouse,29.99,150,Logitech,MOU-WIR-006,1,2026-01-15,2026-01-15
+7,iPhone 17,Apple smartphone,999.99,35,Apple,PH-IPH-007,1,2026-01-16,2026-01-16
+8,Sports Backpack,Backpack designed for sports,49.99,60,Nike,BAG-SPT-008,1,2026-01-17,2026-01-17

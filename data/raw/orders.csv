@@ -1,0 +1,5 @@
+OrderID,CustomerID,PaymentID,OrderDate,Status,ShippingAddress,ShippingCity,ShippingCountry,ShippingCost,DiscountAmount,TaxAmount,TotalAmount,UpdatedAt
+1001,1,1,2026-09-01,Delivered,15 Main Street,Skopje,North Macedonia,5.00,0.00,0.00,139.97,2026-09-03
+1002,2,2,2026-09-03,Delivered,24 Park Road,Berlin,Germany,0.00,0.00,0.00,1199.99,2026-09-05
+1003,3,3,2026-09-05,Shipped,8 Oxford Street,London,United Kingdom,0.00,0.00,0.00,89.99,2026-09-06
+1004,1,4,2026-09-07,Processing,15 Main Street,Skopje,North Macedonia,5.00,135.00,0.00,1099.98,2026-09-07
